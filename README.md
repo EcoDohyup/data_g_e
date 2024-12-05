@@ -1,31 +1,31 @@
-# 싱가포르 에코봇 관련 데이터
+# EB GBB Data
 
-## 전력 관련
-### 평균 일일 배터리 사용량
+## Electricity Power
+### Daily Power Consumption Example
 ![전력 데이터 예시](싱가전기01.png)
-- 상단 : 배터리 잔량 
-- 하단 : 충전량
-- 운영 외 시간(1900 ~ 1000) 대기전력 및 위치사수에 사용하는 배터리 소모량 약 25%
+- Upper : Battery Power
+- Lower : Voltage of Generated Electricity
+- Around 25% of total energy is used for idle state and hovering(during 1900 ~ 1000)
 
-> 11월 15일 ~ 12월 2일
+> 11th/Nov - 2nd/Dec
 ![11월 15일 ~ 12월 2일](싱가전기03.png)
 
-> 11월 18일 배터리 잔량 및 충전량
+> 18th/Nov Battery Power and Power Generation
 ![11월 18일 배터리 잔량 및 충전량](싱가전기04.png)
 
-> 11월 20일 배터리 잔량 및 충전량
+> 20th/Nov Battery Power and Power Generation
 ![11월 20일 배터리 잔량 및 충전량](싱가전기05.png)
 
-> 11월 23일 배터리 잔량 및 충전량
+> 23rd/Nov Battery Power and Power Generation
 ![11월 23일 배터리 잔량 및 중전량](싱가전기06.png)
 
-## 통신 관련
-### 일일 데이터 사용량
-> 11월 18일까지 사용한 데이터
+## Mobile Network
+### Daily Data Consumption
+> Data Consumption from Installation Date to 18th Nov
 ![11월 18일까지 사용](싱가데이터01.png)
-- 사실상 설치기간동안 150기가 정도 사용
+- around 150GB are used during the installation period
 
-> 12월 2일가지 사용한 데이터
+> Data Consumption from Installation Date to 2nd Dec
 ![12월 2일까지 사용](싱가데이터02.png)
-- 약 2주간 94기가 정도 사용함
-- 즉, 14일간 매일 6.7기가 정도 사용
+- around 94GB are used in 14 days
+- **roughly, 6.7GB are used per a day**
